@@ -1,5 +1,5 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ *PROPUESTA DE MODIFICACION DE EDUARDO A YONATAN
  */
 
 package com.mycompany.agenda.biblioteca2025;
